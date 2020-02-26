@@ -1479,7 +1479,7 @@ nav .simple-list .submenu a .fa {
 		width: 100%;
 		-webkit-backface-visibility: hidden;
 		box-shadow: 0 6px 12px rgba(0, 0, 0, .3);
-		border-bottom: 2px solid #509f45;
+		border-bottom: 2px solid #ecbe40;
 	}
 	header.fixed-header nav {
 		max-width: 1310px;
@@ -13088,8 +13088,8 @@ _:-ms-input-placeholder,
 
 option:checked,
 option:hover {
-	color: white;
-
+	color: #b1aaa4;
+    font-weight: 600;
 }
 
 .popup-container {
@@ -13160,7 +13160,6 @@ form label {
 	margin-top: 8%;
 	overflow: hidden;
 }
-
 .login-form {
 	background-color: #fff;
 	border-radius: 10px;
@@ -13813,4 +13812,52 @@ header.type-4 .header-functionality-entry {
 		bottom: 0;
 		top: auto;
 	}
+}
+
+
+
+/*********** add style *****************/
+.pdg-0{
+	padding: 0px;
+}
+.lbl-txt{
+    font-size: 13px;
+    line-height: 14px;
+    color: #333;
+    font-weight: 600;
+    display: block;
+    margin-bottom: 7px;
+    padding: 0px;
+
+}
+.jus-bot10{
+	justify-content: center;
+	margin-bottom: 10px;
+}
+.bg-login{
+	background-color: #cccccc;
+}
+.dis-alig{
+	align-items: center;
+    display: flex;
+}
+.msje{
+	background: #D65C4F;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.dis-fle{
+	display: flex;
+}
+
+.login-box2 {
+	/*    background-color: #fff;*/
+	background-repeat: repeat;
+	background-size: contain;
+	width: 500px;
+	display: block;
+	float: none;
+	overflow: hidden;
+	margin-top: 2%;
+	margin: 0px auto;
 }

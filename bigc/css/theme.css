@@ -2749,8 +2749,8 @@ Page Grid
 .product-pagi-nav a.active,
 .product-pagi-nav a:hover {
     color: #fff;
-    border-color: #333;
-    background-color: #333;
+    border-color: #ecbe40;
+    background-color: #ecbe40;
 }
 
 .product-pagi-nav li {
@@ -5343,7 +5343,7 @@ Page Product List Mr
     color: #1c1e20;
     font-size: 13px;
     margin: 0;
-    padding: 14px 30px;
+    padding: 14px 26px;
     background-color: rgba(255, 255, 255, 0.7);
     transition: all 0.5s ease-out 0s;
     border: none;
