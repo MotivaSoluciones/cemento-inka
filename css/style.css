@@ -5296,6 +5296,9 @@ body.style-2 .navigation-search-content .search-box {
 }
 
 @media (max-width: 1199px) {
+	.nav-overflow{
+		margin-top: 30px;
+	}
 	.breadcrumb-banner {
 		padding: 10px 30px;
 	}
@@ -13817,6 +13820,12 @@ header.type-4 .header-functionality-entry {
 
 
 /*********** add style *****************/
+
+@media (max-width: 500px) {
+	.login-box2{
+		width: 400px !important;
+	}
+}
 .pdg-0{
 	padding: 0px;
 }
