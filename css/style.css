@@ -504,14 +504,14 @@ body {
 /*Boton amarillo login*/
 
 .button.style-3 {
-	background: #ffd000;
-	color: #009b3e;
-	border: 2px solid #ffd000;
+	background: #c52d2d;
+	color: #fff;
+	border: 2px solid #c52d2d;
 }
 
 .button.style-3:hover {
 	background: #fff;
-	color: #009b3e!important;
+	color: #c52d2d!important;
 }
 
 .button.style-14 {
@@ -960,10 +960,10 @@ header.fixed-header .nav-overflow {
 	z-index: 9999;
 }
 
-header.fixed-header .nav-overflow .content-push {
+/* header.fixed-header .nav-overflow .content-push {
 	padding: 10px 0;
 	height: 80px;
-}
+} */
 
 .header-wrapper {
 	width: 100%;
@@ -985,7 +985,7 @@ header.fixed-header .nav-overflow .content-push {
 
 .pre-header .content-push {
 	padding: 0;
-	overflow: initial;
+	/* overflow: initial; */
 }
 
 header .content-push {
@@ -1445,10 +1445,11 @@ nav .simple-list .submenu a .fa {
 .nav-overflow {
 	overflow: visible;
 	width: 100%;
+	height: 80px;
+    padding: 13px 0px;
 }
 
 .nav-overflow .content-push {
-	padding: 10px 0;
 	overflow: visible;
 }
 
@@ -1494,10 +1495,11 @@ nav .simple-list .submenu a .fa {
 		float: none;
 	}
 	header .additional-header-logo {
-		width: 100%;
-		text-align: center;
+		/* width: 100%;
+		text-align: center; */
 		position: absolute;
-    	z-index: 5;
+		z-index: 5;
+		margin-left: 31%;
 		/* transform: translateY(-50%); -moz-transform: translateY(-50%); -webkit-transform: translateY(-50%); -ms-transform: translateY(-50%);*/
 	}
 	header .additional-header-logo img {
@@ -13821,6 +13823,11 @@ header.type-4 .header-functionality-entry {
 
 /*********** add style *****************/
 
+@media (max-width: 670px) {
+	.img-fac{
+		max-width: none !important;
+	}
+}
 @media (max-width: 500px) {
 	.login-box2{
 		width: 400px !important;
@@ -13869,4 +13876,10 @@ header.type-4 .header-functionality-entry {
 	overflow: hidden;
 	margin-top: 2%;
 	margin: 0px auto;
+}
+
+.img-fac{
+	width: 100%;
+    max-width: 310px;
+    height: 100px;
 }
