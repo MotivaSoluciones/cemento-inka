@@ -950,7 +950,7 @@ header {
 	z-index: 5;
 	width: 1200px;
 	margin: 0 auto;
-	height: 130px
+	height: 80px
 }
 
 header.fixed-header .nav-overflow {
@@ -1446,7 +1446,7 @@ nav .simple-list .submenu a .fa {
 	overflow: visible;
 	width: 100%;
 	height: 80px;
-    padding: 13px 0px;
+   /*  padding: 13px 0px; */
 }
 
 .nav-overflow .content-push {
@@ -1477,6 +1477,7 @@ nav .simple-list .submenu a .fa {
 		position: fixed;
 		left: 0;
 		top: 0;
+		padding: 12px 0px;
 		width: 100%;
 		-webkit-backface-visibility: hidden;
 		box-shadow: 0 6px 12px rgba(0, 0, 0, .3);
