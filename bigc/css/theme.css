@@ -2,7 +2,7 @@
 
 body {
     color: #000;
-    font-family: 'Gotham-Medium', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 13px;
     line-height: inherit;
     margin: 0;
@@ -735,8 +735,8 @@ blockquote {
 }
 
 .info-total .icon-search {
-    background: #ecbe40;
-    border: 2px solid #ecbe40;
+    background: #D40C0C;
+    border: 2px solid #D40C0C;
     border-radius: 0;
     color: #fff!important;
     display: initial;
@@ -906,8 +906,8 @@ blockquote {
 }
 
 .title {
-    font-size: 30px;
-    font-weight: 700;
+    font-size: 22px;
+    font-weight: 600;
     margin: 0;
     text-transform: uppercase;
 }
@@ -1045,7 +1045,7 @@ blockquote {
 }
 
 .info-price span {
-    color: #ecbe40;
+    color: #D40C0C;
     font-size: 18px;
     font-weight: 600;
 }
@@ -2657,7 +2657,7 @@ Page Grid
     background: none;
     font-weight: 300;
     font-size: 13px;
-    font-family: 'Gotham-Medium', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     padding: 6px 1em 6px 1.5em;
 }
 
@@ -2667,9 +2667,9 @@ Page Grid
 
 .product-filter {
     position: relative;
-    float: left;
+    float: right;
     display: inline-block;
-    margin-right: 15px;
+    margin: 0 15px;
 }
 
 .filter-type {
@@ -2749,8 +2749,8 @@ Page Grid
 .product-pagi-nav a.active,
 .product-pagi-nav a:hover {
     color: #fff;
-    border-color: #ecbe40;
-    background-color: #ecbe40;
+    border-color: #D40C0C;
+    background-color: #D40C0C;
 }
 
 .product-pagi-nav li {
@@ -2856,12 +2856,12 @@ Page Grid Mr
 }
 
 .ui-slider-range.ui-widget-header.ui-corner-all {
-    background: #ecbe40 none repeat scroll 0 0;
+    background: #D40C0C none repeat scroll 0 0;
 }
 
 .ui-slider-handle.ui-state-default.ui-corner-all {
     background: #fff none repeat scroll 0 0;
-    border: 2px solid #ecbe40;
+    border: 2px solid #D40C0C;
     border-radius: 0;
     height: 10px;
     margin: 0 0 0 -5px;
@@ -3668,7 +3668,7 @@ Page Product List Mr
 .banner-info-text > h2 {
     font-size: 35px;
     line-height: 48px;
-    font-family: 'Gotham-Medium', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     margin: 0;
     text-shadow: 3px 2px 3px rgba(0, 0, 0, 0.45);
     letter-spacing: 3px;
@@ -5348,7 +5348,7 @@ Page Product List Mr
     transition: all 0.5s ease-out 0s;
     border: none;
     font-weight: 600;
-    font-family: 'Gotham-Medium', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     letter-spacing: 1px;
 }
 
@@ -5377,7 +5377,7 @@ Page Product List Mr
     top: 0;
     left: 50%;
     content: "";
-    background: #ffd80e;
+    background: #D40C0C;
     opacity: 0;
     transition: all 0.5s ease-out 0s;
 }
@@ -6827,7 +6827,7 @@ Page Product List Mr
 
 .btn-circle-box {
     display: inline-block;
-    margin: 0 35px;
+/*    margin: 0 35px;*/
     vertical-align: middle;
 }
 
@@ -6868,8 +6868,10 @@ Page Product List Mr
 }
 
 .btn-circle-box .link-wishlist {
-    width: 36px;
-    height: 36px;
+    width: 38px;
+    height: 38px;
+    background: #fff;
+    border: 1px solid #666;
 }
 
 .btn-circle-box .link-compare {
@@ -6885,16 +6887,19 @@ Page Product List Mr
 
 .btn-circle-box1 a {
     background: #2FA0D8;
-    color: #fff;
+    color: #666;
 }
 
 .btn-circle-box1 .link-add-cart {
-    background: #2FA0D8 url("../images/icon-cart.png") no-repeat center center;
+    background: #D7D8D6;
+	color: #666;
 }
 
+/*
 .btn-circle-box1 a:hover {
     background-color: #FFD21D;
 }
+*/
 
 .btn-circle-box1 .link-wishlist:hover span {
     transform: scale(2);
@@ -6910,7 +6915,7 @@ Page Product List Mr
 }
 
 .btn-circle-box11 .link-add-cart {
-    background: #FFD21D url("../images/icon-cart.png") no-repeat center center;
+    background: #FFD21D;
 }
 
 .btn-circle-box11 a:hover {
@@ -7906,18 +7911,18 @@ Page Product List Mr
 .title-banner-box.style1 {
     color: #333;
     margin-bottom: 5px;
-    font-family: 'Gotham-Medium', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .title-banner-box.style2 {
     color: #fff;
     font-weight: 600;
-    font-family: 'Gotham-Medium', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .banner-box.banner-style3 .banner-box-info::before {
     border-right: 36px solid transparent;
-    border-top: 36px solid #ffd80e;
+    border-top: 36px solid #D40C0C;
     content: "";
     height: 0;
     left: 0;
@@ -8657,11 +8662,11 @@ Page Product List Mr
 .filter-product .btn-filter.style-border-left {
     margin-top: 25px;
     padding-left: 25px;
-    width: 120px;
+    width: 230px;
 }
 
 .filter-product .btn-filter.style-border-left::before {
-    background: #1997d4 none repeat scroll 0 0;
+    background: #000 none repeat scroll 0 0;
     content: "";
     height: 100%;
     left: 0;
@@ -10072,7 +10077,7 @@ span.click-button {
 }
 
 .item-product-loadmore .open-product {
-    background: rgba(45, 159, 208, 0.9) none repeat scroll 0 0;
+    background: #d40b0a none repeat scroll 0 0;
     border-radius: 50%;
     bottom: 0;
     color: #fff;
@@ -10113,7 +10118,7 @@ span.click-button {
 }
 
 .item-product-loadmore .title-product a:hover {
-    color: #1997d4;
+    color: #D40C0C;
 }
 
 .item-product-loadmore .title-product {
@@ -10121,7 +10126,7 @@ span.click-button {
 }
 
 .item-product-loadmore .info-price span {
-    color: #1997d4;
+    color: #D40C0C;
 }
 
 .item-product-loadmore .info-price del {
@@ -10131,7 +10136,7 @@ span.click-button {
 
 .item-product.item-product-loadmore {
     background: #fff none repeat scroll 0 0;
-    box-shadow: 1px 3px 2px 0 rgba(0, 0, 0, 0.1);
+/*    box-shadow: 1px 3px 2px 0 rgba(0, 0, 0, 0.1);*/
     margin: 0 -5px 20px;
 }
 
@@ -10230,7 +10235,7 @@ span.click-button {
 .product-best-sale.style2 .item-product-loadmore .item-product-info {
     margin: 25px 0 0;
     padding: 0;
-    text-align: center;
+    text-align: left;
 }
 
 .product-best-sale.style2 .item-product-loadmore .title-product a {
@@ -10412,7 +10417,7 @@ span.click-button {
     border-radius: 4px;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2);
     left: 0;
-    padding: 30px 0;
+    padding: 10px 0;
     position: absolute;
     top: 100%;
     width: 100%;
@@ -10448,11 +10453,12 @@ span.click-button {
 }
 
 .item-attr-content a:hover {
-    color: #fff;
+    color: #D40C0C;
 }
 
 .attr-category a {
-    margin-right: 30px;
+    margin: 10px 30px 10px 0;
+    font-size: 12px;
 }
 
 .box-attr-filter::before {
@@ -10605,7 +10611,7 @@ span.click-button {
 .heading-box > h1 {
     color: #1b1d1f;
     font-size: 60px;
-    font-family: 'Gotham-Medium', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     margin-bottom: 70px;
 }
 
@@ -10619,7 +10625,7 @@ span.click-button {
 .heading-box h3 {
     color: #252525;
     font-size: 24px;
-    font-family: 'Gotham-Medium', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     margin-bottom: 80px;
 }
 
@@ -10901,7 +10907,8 @@ a.content-link {
 }
 
 .text-fucsia {
-    color: #1f9338;
+    color: #000;
+	font-weight: 600;
 }
 
 .bg-fucsia {

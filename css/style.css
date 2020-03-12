@@ -1,5 +1,5 @@
 body {
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	color: #000
 }
 
@@ -142,7 +142,7 @@ button:focus {
 
 textarea,
 select {
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
 	-webkit-appearance: none;
 	border-radius: 4px;
@@ -167,7 +167,7 @@ ul {
 }
 
 body {
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
 	font-size: 14px;
 	line-height: 1;
@@ -435,7 +435,7 @@ body {
 }
 
 .button {
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 11px;
 	font-style: normal !important;
 	line-height: 18px;
@@ -491,14 +491,14 @@ body {
 /*Boton gris fucsia*/
 
 .button.style-10 {
-	border: 2px solid #ecbe40;
-	background: #ecbe40;
+	border: 2px solid #D40C0C;
+	background: #D40C0C;
 }
 
 .button.style-10:hover {
 	background: #fff;
 	color: #333;
-	border: 2px solid #ecbe40;
+	border: 2px solid #D40C0C;
 }
 
 /*Boton amarillo login*/
@@ -1018,7 +1018,7 @@ nav > ul > li > a {
 	line-height: 58px;
 	text-transform: uppercase;
 	display: inline-block;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	padding: 0 14px;
 }
 
@@ -1446,7 +1446,7 @@ nav .simple-list .submenu a .fa {
 	overflow: visible;
 	width: 100%;
 	height: 80px;
-   /*  padding: 13px 0px; */
+	/*  padding: 13px 0px; */
 }
 
 .nav-overflow .content-push {
@@ -1481,7 +1481,6 @@ nav .simple-list .submenu a .fa {
 		width: 100%;
 		-webkit-backface-visibility: hidden;
 		box-shadow: 0 6px 12px rgba(0, 0, 0, .3);
-		border-bottom: 2px solid #ecbe40;
 	}
 	header.fixed-header nav {
 		max-width: 1310px;
@@ -1737,7 +1736,7 @@ body:not(.mobile) .socials-box a:hover .fa {
 .header-functionality-entry {
 	font-size: 18px !important;
 	line-height: 15px;
-	color: #ecbe40;
+	color: #D40C0C;
 	font-weight: 700 !important;
 	display: inline-block;
 	vertical-align: middle;
@@ -1778,7 +1777,7 @@ body:not(.mobile) .socials-box a:hover .fa {
 	font-size: 18px;
 	color: #3f454b;
 	font-weight: 700;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 a.open-cart-popup {
@@ -1792,7 +1791,7 @@ a.open-cart-popup .count {
 	color: #fff;
 	display: inline-block;
 	height: 18px;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 10px;
 	font-weight: bold;
 	line-height: 18px;
@@ -2876,9 +2875,9 @@ footer#footer li a {
 	color: #fff;
 	font-size: 11px;
 	line-height: 12px;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	white-space: nowrap;
-	border-right: 2px solid #fff;
+	border-right: 1px solid #fff;
 	padding-right: 10px;
 }
 
@@ -2910,7 +2909,7 @@ footer#footer li {
 footer h3,
 footer b {
 	margin-bottom: 10px;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	color: #757878;
 	font-size: 14px;
 	font-weight: bold;
@@ -4526,7 +4525,7 @@ body:not(.mobile) #content-block .sidebar-navigation .entry:hover .fa {
 }
 
 .navigation-banner-content .subtitle {
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 40px;
 	line-height: 30px;
 	color: #d349bd;
@@ -4545,7 +4544,7 @@ body:not(.mobile) #content-block .sidebar-navigation .entry:hover .fa {
 .light-text .navigation-banner-content .title {}
 
 .navigation-banner-content .title {
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
 	font-size: 70px;
 	line-height: 50px;
@@ -4568,7 +4567,7 @@ body:not(.mobile) #content-block .sidebar-navigation .entry:hover .fa {
 	font-size: 15px;
 	line-height: 24px;
 	color: #aaa;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
 	margin-bottom: 15px;
 	transform: translateX(-100px);
@@ -5063,7 +5062,7 @@ body:not(.mobile) .hover-class-1:hover .hover-label {
 	font-size: 60px;
 	line-height: 55px;
 	color: #779307;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-bottom: 10px;
@@ -5189,19 +5188,19 @@ body.style-2 .navigation-banner-content .subtitle {
 	font-size: 30px;
 	color: #0f51a3;
 	font-weight: 300;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	letter-spacing: -1px;
 }
 
 body.style-2 .navigation-banner-content .title {
 	font-weight: 700;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 60px;
 	line-height: 60px;
 }
 
 body.style-2 .navigation-banner-content .description {
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-style: normal;
 }
 
@@ -5299,7 +5298,7 @@ body.style-2 .navigation-search-content .search-box {
 }
 
 @media (max-width: 1199px) {
-	.nav-overflow{
+	.nav-overflow {
 		margin-top: 30px;
 	}
 	.breadcrumb-banner {
@@ -5702,14 +5701,14 @@ body.style-4 .navigation-banner-content .subtitle {
 	font-size: 20px;
 	line-height: 24px;
 	color: #a58d2d;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 600;
 	letter-spacing: 2px;
 	margin-bottom: 12px;
 }
 
 body.style-4 .navigation-banner-content .title {
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 700;
 	font-size: 48px;
 	line-height: 48px;
@@ -6037,7 +6036,7 @@ body.style-5 .button.style-4 {
 	font-size: 24px;
 	line-height: 24px;
 	text-transform: uppercase;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 700;
 	margin-bottom: 10px;
 }
@@ -6051,7 +6050,7 @@ body.style-5 .button.style-4 {
 	font-size: 80px;
 	line-height: 72px;
 	text-transform: uppercase;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 700;
 	margin-bottom: 5px;
 }
@@ -7633,7 +7632,7 @@ body.style-10 .product-slide-entry .subtitle:hover {
 .product-detail-box.desc span,
 .tabs-container .subtitles,
 .tabs-container.style-1 .tab-switcher {
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	margin-right: 5px;
 	text-transform: uppercase;
 	font-weight: 600;
@@ -7743,7 +7742,7 @@ p,
 	line-height: 20px;
 	color: #585555;
 	margin-bottom: 10px;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .product-detail-box .cant {
@@ -8133,7 +8132,7 @@ p,
 
 .tabs-container.style-1 .tab-switcher.active,
 .tabs-container.style-1 .tab-switcher:hover {
-	border-left: 5px solid #fed80e;
+	border-left: 5px solid #000;
 }
 
 .tabs-container.style-1 .swiper-tabs:before {
@@ -9763,7 +9762,7 @@ body.error_404 {
 .remove-button:hover {
 	background: #fff;
 	color: #7a7b7b;
-	border: 1px #ecbe40 solid;
+	border: 1px #D40C0C solid;
 }
 
 .wishlist-entry .column-2 .remove-button {
@@ -9946,7 +9945,7 @@ body.error_404 {
 }
 
 .cart-table span.addcart {
-	background: #ecbe40;
+	background: #D40C0C;
 	width: 40px;
 	display: block;
 	height: 40px;
@@ -9960,8 +9959,8 @@ body.error_404 {
 
 .cart-table span.addcart:hover {
 	background: #fff;
-	color: #ecbe40;
-	border: 1px solid #ecbe40;
+	color: #D40C0C;
+	border: 1px solid #D40C0C;
 	cursor: pointer;
 }
 
@@ -9990,7 +9989,7 @@ table.table-cartotal th,
 	color: #343434;
 	border: 1px #e5e5e5 solid;
 	font-weight: 700;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	text-align: center;
 }
 
@@ -10140,7 +10139,7 @@ table.table-cartotal input[type=radio] {
 	line-height: 40px;
 	color: #333232;
 	font-weight: 700;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	margin-bottom: 15px;
 }
 
@@ -10349,8 +10348,8 @@ table.table-cartotal input[type=radio] {
 	font-size: 18px;
 	font-weight: 600;
 	margin-bottom: 20px;
-	font-family: 'Gotham-Medium', sans-serif;
-	color: #1f9338;
+	font-family: 'Open Sans', sans-serif;
+	color: #000;
 	text-transform: uppercase;
 }
 
@@ -10528,7 +10527,7 @@ header.type-4 .header-top:before {
 		color: #fff;
 	}
 	header.type-4 .header-functionality-entry {
-		color: #509f45;
+		color: #000;
 	}
 	header.type-4 .header-functionality-entry span.lnr {
 		font-weight: 700;
@@ -10584,7 +10583,7 @@ header.type-4 .header-top:before {
 		color: #CBCED5;
 		text-transform: uppercase;
 		font-weight: bold;
-		font-family: 'Gotham-Medium', sans-serif;
+		font-family: 'Open Sans', sans-serif;
 	}
 	header.type-4 .header-top-entry .title .fa {
 		color: #fff;
@@ -10607,17 +10606,17 @@ body.style-11 .navigation-banner-content .subtitle {
 	font-size: 18px;
 	color: #cdcdcd;
 	text-transform: uppercase;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	letter-spacing: 3px;
 }
 
 body.style-11 .navigation-banner-content .title {
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	letter-spacing: 2px;
 }
 
 body.style-11 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .subtitle {
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
 	line-height: 22px;
 	color: #fff;
@@ -10627,7 +10626,7 @@ body.style-11 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .subtitle {
 }
 
 body.style-11 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .title {
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 44px;
 	line-height: 44px;
 	text-transform: uppercase;
@@ -10636,7 +10635,7 @@ body.style-11 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .title {
 }
 
 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .view {
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 12px;
 	line-height: 16px;
 	color: #fff;
@@ -10672,7 +10671,7 @@ body:not(.mobile).style-11 a.sale-entry:hover {
 }
 
 body.style-11 .sale-entry .sale-price {
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	letter-spacing: 2px;
 }
 
@@ -10724,7 +10723,7 @@ body.style-11 .mozaic-banners-wrapper.type-2 .banner-column {
 	line-height: 24px;
 	color: #fafafa;
 	text-transform: uppercase;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	display: block;
 	margin-bottom: 10px;
 }
@@ -10780,7 +10779,7 @@ body:not(.mobile) .color-text-widget:hover .description {
 	font-size: 24px;
 	line-height: 24px;
 	color: #1c1e20;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	text-transform: uppercase;
 	margin-bottom: 15px;
 	display: block;
@@ -10805,7 +10804,7 @@ body.style-10 .column-article-entry {
 body.style-10 .column-article-entry .title {
 	font-size: 22px;
 	font-weight: 400;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 @media (max-width: 1199px) {
@@ -10876,7 +10875,7 @@ table.pasos td {
 	line-height: 24px;
 	color: #1c1e20;
 	font-weight: 400;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .tabs-container {
@@ -10906,7 +10905,7 @@ table.pasos td {
 	font-weight: 600;
 	text-transform: uppercase;
 	font-size: 12px;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .price .current,
@@ -10914,7 +10913,7 @@ table.pasos td {
 	color: #fff;
 	font-weight: 600;
 	font-size: 18px;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .descuento {
@@ -10953,7 +10952,7 @@ table.pasos td {
 	font-size: 34px;
 	margin-bottom: 7px;
 	text-transform: uppercase;
-	font-family: 'Gotham-light', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 body.style-15 .navigation-banner-content .title,
@@ -10964,7 +10963,7 @@ body.style-15 .navigation-banner-content .title,
 	color: #fff;
 	text-transform: uppercase;
 	font-weight: 100;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	letter-spacing: 0;
 	margin-bottom: 12px;
 }
@@ -10973,7 +10972,7 @@ body.style-15 .navigation-banner-content .title,
 .internas-banner-content h1 {
 	letter-spacing: 2px;
 	font-size: 45px;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	text-transform: uppercase;
 }
 
@@ -10998,7 +10997,7 @@ body.style-15 .navigation-banner-content .title,
 }
 
 .banner_estatico.puntos .cell-view span {
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 700;
 	font-size: 34px;
 }
@@ -11019,7 +11018,7 @@ body.style-15 .navigation-banner-content .title,
 }
 
 .container.puntos .nav-tabs li span {
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: bold;
 	font-size: 20px;
 }
@@ -11472,7 +11471,7 @@ body.style-15 .navigation-banner-content .black .puntos {
 	font-size: 50px;
 	line-height: 50px;
 	color: #fff;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	letter-spacing: 0;
 }
 
@@ -11495,14 +11494,14 @@ body.style-15 .swiper-active-switch {
 }
 
 body.style-15 .bubbles span {
-	background: #349443;
+	background: #D40C0C;
 }
 
 body.style-15 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .subtitle {
 	color: #fff;
 	font-weight: 300;
 	text-transform: uppercase;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 body.style-15 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .title {
@@ -11511,7 +11510,7 @@ body.style-15 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .title {
 	text-transform: uppercase;
 	color: #fff;
 	font-weight: 100;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 body.style-15 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .view {
@@ -11519,7 +11518,7 @@ body.style-15 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .view {
 	color: #fff;
 	text-transform: uppercase;
 	font-style: normal;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 700;
 	border-bottom-width: 2px;
 }
@@ -12003,7 +12002,7 @@ body.style-18 .bubbles span {
 }
 
 .article-container ul li:before {
-	color: #f38b05;
+	color: #000;
 }
 
 .special-item-entry {
@@ -12037,7 +12036,7 @@ body:not(.mobile) .special-item-entry:hover > img:first-child {
 	-webkit-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
 	text-align: center;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 700;
 	font-size: 14px;
 	color: #fff;
@@ -13095,7 +13094,7 @@ _:-ms-input-placeholder,
 option:checked,
 option:hover {
 	color: #b1aaa4;
-    font-weight: 600;
+	font-weight: 600;
 }
 
 .popup-container {
@@ -13166,6 +13165,7 @@ form label {
 	margin-top: 8%;
 	overflow: hidden;
 }
+
 .login-form {
 	background-color: #fff;
 	border-radius: 10px;
@@ -13339,7 +13339,7 @@ form div {
 .error-pass {
 	text-align: left!important;
 	color: #3f454b;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	line-height: 18px;
 }
 
@@ -13504,7 +13504,7 @@ span.help-block {
 	line-height: 30px;
 	text-shadow: none;
 	letter-spacing: inherit;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .white .banner-info-text .title {
@@ -13595,9 +13595,8 @@ span.help-block {
 }
 
 .info-header li.info-pts {
-	background-image: url(../img/bg/bg-info-pts.png);
 	background-color: #fff;
-	padding: 9px 25px;
+	padding: 10px;
 	background-repeat: no-repeat;
 	background-position: top left;
 	margin-right: 20px;
@@ -13630,9 +13629,9 @@ span.help-block {
 }
 
 .info-header li.info-pts span {
-	font-size: 16px;
-	font-weight: 700;
-	color: #509f45;
+	font-size: 15px;
+	font-weight: 600;
+	color: #D40C0C;
 }
 
 .title-metas {
@@ -13755,12 +13754,12 @@ table.calc tr th {
 
 table.calc tr td {
 	padding: 18px 12%;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	border-bottom: 1px solid #e5e5e5;
 }
 
 table.calc tr td span {
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 600;
 	font-size: 18px;
 }
@@ -13773,7 +13772,7 @@ p.result {
 	font-style: italic;
 	margin-top: 20px;
 	text-align: center;
-	font-family: 'Gotham-Medium', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 15px;
 }
 
@@ -13800,6 +13799,7 @@ p.result {
 	float: none;
 	width: auto;
 }
+
 /*
 .info-header li.info-pts span {
     font-size: 16px;
@@ -13813,7 +13813,7 @@ header.type-4 .header-functionality-entry {
 */
 
 @media (max-width: 767px) {
-	.nav-tabs-icon .nav-tabs > li > a::before{
+	.nav-tabs-icon .nav-tabs > li > a::before {
 		height: 3px;
 		bottom: 0;
 		top: auto;
@@ -13825,45 +13825,53 @@ header.type-4 .header-functionality-entry {
 /*********** add style *****************/
 
 @media (max-width: 670px) {
-	.img-fac{
+	.img-fac {
 		max-width: none !important;
 	}
 }
+
 @media (max-width: 500px) {
-	.login-box2{
+	.login-box2 {
 		width: 400px !important;
 	}
 }
-.pdg-0{
+
+.pdg-0 {
 	padding: 0px;
 }
-.lbl-txt{
-    font-size: 13px;
-    line-height: 14px;
-    color: #333;
-    font-weight: 600;
-    display: block;
-    margin-bottom: 7px;
-    padding: 0px;
+
+.lbl-txt {
+	font-size: 13px;
+	line-height: 14px;
+	color: #333;
+	font-weight: 600;
+	display: block;
+	margin-bottom: 7px;
+	padding: 0px;
 
 }
-.jus-bot10{
+
+.jus-bot10 {
 	justify-content: center;
 	margin-bottom: 10px;
 }
-.bg-login{
+
+.bg-login {
 	background-color: #cccccc;
 }
-.dis-alig{
+
+.dis-alig {
 	align-items: center;
-    display: flex;
+	display: flex;
 }
-.msje{
+
+.msje {
 	background: #D65C4F;
-    padding: 10px;
-    margin-bottom: 10px;
+	padding: 10px;
+	margin-bottom: 10px;
 }
-.dis-fle{
+
+.dis-fle {
 	display: flex;
 }
 
@@ -13879,8 +13887,12 @@ header.type-4 .header-functionality-entry {
 	margin: 0px auto;
 }
 
-.img-fac{
+.img-fac {
 	width: 100%;
-    max-width: 310px;
-    height: 100px;
+	max-width: 310px;
+	height: 100px;
+}
+
+.info-price {
+	margin: 15px 0;
 }
